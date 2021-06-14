@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+karelcraft/__init__.py
+experimental/
